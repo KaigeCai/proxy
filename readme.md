@@ -14,8 +14,7 @@ V2ray/SS/SSR Trojan 翻墙 高速稳定节点 YouTube 油管 谷歌 Google Twitt
 
 点击下载软件：
 [Android](https://github.com/chen08209/FlClash/releases/download/v0.8.70/FlClash-0.8.70-android-arm64-v8a.apk)
-[Android2]
-(https://clash-for-android.en.uptodown.com/android/download)
+[Android2](https://clash-for-android.en.uptodown.com/android/download)
 [iOS](https://apps.apple.com/us/app/shadowrocket/id932747118)
 [Windows](https://github.com/chen08209/FlClash/releases/download/v0.8.70/FlClash-0.8.70-windows-amd64-setup.exe)
 [Windows2](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/download/CFW-V0.20.39_OPT-1/Clash.for.Windows.Setup.0.20.39_Opt-1.exe)
