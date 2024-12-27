@@ -27,7 +27,7 @@ https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy9jZDVmMDg0ZTUxNDhlMTc5L0VWVVU3
 [Linux](https://github.com/chen08209/FlClash/releases/download/v0.8.70/FlClash-0.8.70-linux-amd64.AppImage)
 
 喜欢这个项目记得捐助我，欢迎打赏！支付宝/微信转账至：18852284878
-![打赏](./reward.png)
+![打赏](./picture/reward.png)
 <img src='./picture/cylink.png'>
 <img src='./picture/flclash-windows.png'>
 <img src='./picture/clash.png'>
