@@ -12,10 +12,6 @@ V2ray/SS/SSR Trojan 翻墙 高速稳定节点 YouTube 油管 谷歌 Google Twitt
 
 <span style="color:orange">Shadowrocket小火箭购买链接</span> [点击跳转](https://store.kxsw.org/) [点击跳转2](https://www.shadowrocket.work/)
 
-免费高速稳定Clash机场： 请复制导入       https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy9jZDVmMDg0ZTUxNDhlMTc5L0VaajBZeU9FM3hoTnNLU21LNmtYS180QlM2VVplNEcwUTRnQ2N5cGxYSzhzbGc_ZT1jcnhpSTU.jpg
-
-https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy9jZDVmMDg0ZTUxNDhlMTc5L0VWVVU3YjFKaFVWS3RKT0N2SXlZanNjQmRpOFNFYndUbzQ3RzItWldXMDRNWkE_ZT1KaVQwN2w.jpg
-
 点击下载软件：
 [Android](https://github.com/chen08209/FlClash/releases/download/v0.8.70/FlClash-0.8.70-android-arm64-v8a.apk)
 [Android2](https://clash-for-android.en.uptodown.com/android/download)
